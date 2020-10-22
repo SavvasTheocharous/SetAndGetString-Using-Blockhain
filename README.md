@@ -1,5 +1,5 @@
 # SetAndGetString-Using-Blockhain
-A basic project i build to show basic understanding of how to build a decentralized app.
+A basic project I built to show basic understanding of how to build a decentralized app.
 - Building a smart contract that can store and change data using Solidity.
 - Truffle testing.
 - Truffle migrating.
